@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
