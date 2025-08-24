@@ -9,6 +9,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -21,9 +22,14 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
