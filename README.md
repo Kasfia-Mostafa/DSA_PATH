@@ -24,6 +24,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,4 +33,17 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kasfia-Mostafa/DSA_With_Python/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
